@@ -1,13 +1,15 @@
-# **OpenGL + FreeGLUT Setup Guide for Windows 11**
+# **OpenGL + FreeGLUT Setup Guide for Windows 11**  
 
-This guide walks you through setting up OpenGL with FreeGLUT on a Windows 11 system.
+This guide walks you through setting up OpenGL with FreeGLUT on a Windows 11 system.  
 
----
+---  
 
-## **Step 1: Install MSYS2**
+## **Step 1: Set Up Your Development Environment**  
 
-1. Download MSYS2 from the official [MSYS2 website](https://www.msys2.org/). Follow the installation instructions provided there.
-2. Open the MSYS2 terminal after installation.
+Before proceeding with OpenGL installation, ensure that you have a properly configured C++ development environment. Follow the instructions in the official [Visual Studio Code documentation](https://code.visualstudio.com/docs/cpp/config-mingw#_prerequisites) to set up MinGW and VS Code.  
+
+Alternatively, you can watch this [YouTube tutorial](https://www.youtube.com/watch?v=oC69vlWofJQ) for a step-by-step guide.  
+
 
 ---
 
