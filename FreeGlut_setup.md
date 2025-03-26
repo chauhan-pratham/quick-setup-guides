@@ -99,24 +99,3 @@ You can run the program in various ways based on your input requirements:
 Congratulations! Your OpenGL + FreeGLUT environment is now set up and ready to use.
 
 ---
-
-## **Additional Commands for Advanced Setup**
-
-1. Install GLFW for additional functionality:
-   ```sh
-   pacman -S mingw-w64-ucrt-x86_64-glfw
-   ```
-2. Install GCC, GLAD, and GLM libraries for advanced OpenGL:
-   ```sh
-   pacman -S mingw-w64-ucrt-x86_64-gcc
-   pacman -S mingw-w64-ucrt-x86_64-glad
-   pacman -S mingw-w64-ucrt-x86_64-glm
-   ```
-3. Navigate to your project directory:
-   ```sh
-   cd path_to_your_directory
-   ```
-4. Compile your `main.cpp` with GLAD and GLFW:
-   ```sh
-   g++ main.cpp /ucrt64/lib/glad.c -o main.exe -I/ucrt64/include -L/ucrt64/lib -lglfw -lopengl32
-   ```
