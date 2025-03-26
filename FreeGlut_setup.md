@@ -1,4 +1,4 @@
-# **OpenGL + FreeGLUT Setup Guide for Windows 11**  
+# **OpenGL + FreeGLUT Setup Guide for Windows 11 (64-bit Machine)**  
 
 This guide walks you through setting up OpenGL with FreeGLUT on a Windows 11 system.  
 
